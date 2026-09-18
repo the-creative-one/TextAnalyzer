@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TextAnalyzer/static/css/main.e6b8a77a.css",
-    "main.js": "/TextAnalyzer/static/js/main.3d7187e7.js",
+    "main.js": "/TextAnalyzer/static/js/main.b316cc08.js",
     "index.html": "/TextAnalyzer/index.html",
     "main.e6b8a77a.css.map": "/TextAnalyzer/static/css/main.e6b8a77a.css.map",
-    "main.3d7187e7.js.map": "/TextAnalyzer/static/js/main.3d7187e7.js.map"
+    "main.b316cc08.js.map": "/TextAnalyzer/static/js/main.b316cc08.js.map"
   },
   "entrypoints": [
     "static/css/main.e6b8a77a.css",
-    "static/js/main.3d7187e7.js"
+    "static/js/main.b316cc08.js"
   ]
 }
